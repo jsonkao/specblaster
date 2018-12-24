@@ -1,1 +1,4 @@
 beautifulsoup4==4.6.3
+nltk==3.4
+singledispatch==3.4.0.3
+six==1.12.0
